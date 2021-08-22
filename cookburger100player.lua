@@ -1,11 +1,5 @@
 --[[
 
-// Made for this game: https://www.roblox.com/games/5409315202
-// This uses chat commands e.g ".control Whoo129"
-// Most things I couldn't be asked to do 
-
-// Made fully by Whoogivesashit#2751
-
 // Chat commands still work
 
 ]]
