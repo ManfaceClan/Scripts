@@ -963,7 +963,7 @@ local function DoCommand(Command)
 end
 local Sound = Instance.new(("Sound"),(workspace))
 Sound.SoundId = ("rbxassetid://1053296915") Sound:Play()
-game:GetService("StarterGui"):SetCore("SendNotification", {Title = ("Cook burgers admin v2");Text = ("Thanks for using made by Whoogivesashit#2751");})
+game:GetService("StarterGui"):SetCore("SendNotification", {Title = ("Cook burgers admin v2");Text = ("Thanks for using made by The Manface Clan - bit.ly/manfaceclan");})
 
 lp.Chatted:connect(function(Msg) -- haha chat go brrrrr
 	DoCommand(Msg:lower())
